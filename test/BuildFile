@@ -18,6 +18,6 @@
 #<bin file=testFieldInterpolation.cpp>
 #</bin>
 
-<bin file="BinaryTablesGeneration/prepareFieldInterpolation.cpp, BinaryTablesGeneration/prepareMagneticFieldGrid.cc" name=prepareMagneticFieldGrid>
+<bin file="BinaryTablesGeneration/prepareFieldTable.cpp, BinaryTablesGeneration/prepareMagneticFieldGrid.cc" name=prepareFieldTable>
   <use name=MagneticField/Interpolation>
 </bin>

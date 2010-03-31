@@ -32,3 +32,5 @@
 <use name=clhep>
   <use name=MagneticField/Interpolation>
 </bin>
+
+<Flags CXXFLAGS="-Wno-format">
